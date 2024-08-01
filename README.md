@@ -1,50 +1,26 @@
-# Welcome to your Expo app 👋
+# Projeto Extensionista - Ginásio Educacional Olímpico 🏋️‍♂️📊
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Este projeto faz parte de uma iniciativa extensionista da Faculdade Estácio de Sá, desenvolvido para a disciplina de Programação Para Dispositivos Móveis em Android. O objetivo é criar um aplicativo para um Ginásio Educacional Olímpico, que permite mostrar, inserir e exibir dados relacionados ao desempenho físico dos alunos, idade, IMC (Índice de Massa Corporal) e outros parâmetros importantes.
 
-## Get started
+## Equipe 👨‍💻👩‍💻
+- Daniel Oliveira
+- Luis Guilherme
+- Jefferson Junio
+- Renan Aderne
 
-1. Install dependencies
+## Tecnologias Utilizadas 💻
+- **React Native**: Framework principal utilizado para o desenvolvimento do aplicativo mobile.
+- **SQL**: Utilizado para o gerenciamento e armazenamento de dados no banco de dados.
+- **JavaScript**: Linguagem principal para a lógica de programação e interatividade do aplicativo.
+- **HTML & CSS**: Utilizados para a construção e estilização das interfaces no contexto do aplicativo.
+- **Git**: Utilizado para controle de versão e colaboração no desenvolvimento do projeto.
 
-   ```bash
-   npm install
-   ```
+## Funcionalidades 🛠️
+O aplicativo desenvolvido possui as seguintes funcionalidades:
+- **Coleta e Armazenamento de Dados**: Captura e armazena informações dos alunos, como idade, desempenho físico e IMC.
+- **Análise de Dados**: Processa e analisa os dados coletados para identificar tendências e padrões.
+- **Visualização de Dados**: Gera gráficos e visualizações interativas para facilitar a interpretação dos dados.
+- **Relatórios**: Exibe relatórios detalhados diretamente no aplicativo para auxiliar na visualização e análise do desempenho dos alunos.
+- **Interface de Usuário**: Proporciona uma interface amigável e intuitiva para facilitar o acesso e uso do aplicativo pelos usuários.
 
-2. Start the app
 
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
